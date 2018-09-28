@@ -23,6 +23,8 @@ languages.
 
 ### Tools
 
+- [sed](sed)
+
 ### Concepts
 
 - [RWLocks](technologies/concepts/rwlocks)
