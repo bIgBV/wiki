@@ -12,3 +12,6 @@ build/%.html: %.md
 build/assets/%: assets/%
 	@mkdir -p $$(dirname $@)
 	cp $? $@
+
+clean:
+	rm -r build/
