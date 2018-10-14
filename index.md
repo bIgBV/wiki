@@ -1,4 +1,4 @@
----
+[](---)
 title: Knowledge Base
 subtitle: >
     A collection of things I've learned over time and want to have a quick way
@@ -15,7 +15,6 @@ subtitle: >
 Tips and tricks I've learnt about different pplications, technologies and
 languages.
 
-
 ### Languages
 
 - [Rust](technologies/languages/rust)
@@ -28,6 +27,7 @@ languages.
 ### Concepts
 
 - [RWLocks](technologies/concepts/rwlocks)
+- [Virtio](technologies/concepts/virtio)
 
 
 ## Random trivia
@@ -38,6 +38,8 @@ languages.
 * stream::FuturesUnordered
 * proselint
 
-# Job search
+# Misc
 
 - [application list](application-list)
+- [Project idea](Project-idea)
+

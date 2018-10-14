@@ -4,6 +4,14 @@ title: A list of companies I applied to
 
 https://www.linkedin.com/in/bhargav-voleti
 
+## Programming history
+
+I've been programming for a little over 6 and a half years. When I first started I mostly built web application in python, learning to program by building my own CMS framework for my personal blog. I joined Recruiterbox, as a full stack developer. I learnt a lot during my time there, performing in various different roles such as building features for our application, taking ownership of triaging issues with out customer facing teams, handling our deployment pipeline and being a part of the on call rotation if any issues came. I was also part of a team dedicated to improve the overall performance and the experience of our application, bringing down the page load times from 2+ minutes for our larger clients to around 14 seconds  across the board.
+
+I started pursuing my masters after two years at Recruiterbox, wanting to improve my fundamentals and focus on systems and scalability problems.  All through my masters I've been working on learning systems programming by working on projects such as building a simulation of a distributed system to validate Encoded Vector Clocks, build asynchronous client libraries for Beanstalkd. I also interned at Cisco systems during this summer working in their VIC firmware team, learning the inner workings of datacenter networking and high performance firmware. I helped automate services in the datacenter and work on fixing issues with the firmware of their high performance 40+ Gigabit network cards.
+
+Currently, I am working on my masters project which is adding a network stack to XV6, a teaching operating system.
+
 * *DRW*: 17 september 2018
 * *Vail systesms*: 20 September 2018
     * Had a campus interview on the 24th. Should be hearing from them within the week.
