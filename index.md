@@ -1,4 +1,4 @@
-[](---)
+---
 title: Knowledge Base
 subtitle: >
     A collection of things I've learned over time and want to have a quick way
