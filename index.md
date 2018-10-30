@@ -40,7 +40,6 @@ languages.
 
 # Misc
 
-- [application list](application-list.md)
-- [Project idea](Project-idea.md)
-- [Scratch](scratch.md)
+- [application list](application-list)
+- [Project idea](Project-idea)
 
