@@ -67,3 +67,4 @@ All in all, the biggest things I got from reading through the responses are:
 
 - [General notes](rust/general-notes.md)
 - [Talks](rust/talks.md)
+- [WG-net-blog](wg-net.md)

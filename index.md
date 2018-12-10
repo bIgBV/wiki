@@ -19,6 +19,7 @@ languages.
 
 - [Rust](technologies/languages/rust)
 - [C](technologies/languages/c)
+- [Snippets](technologies/snippets.md)
 
 ### Tools
 
@@ -43,3 +44,8 @@ languages.
 - [application list](application-list)
 - [Project idea](Project-idea)
 
+# Master's project
+
+Notes around my masters project: Adding a para-virtualized network driver to xv6.
+
+- [qemu](project/qemu.md)
